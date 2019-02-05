@@ -20,3 +20,6 @@
     * Instead of getting stalled in a step, can you assume an answer (or possible answers) and proceed.
 2. "So what?"
     * If I get an answer to this question, how will it  change my thinking?
+
+
+## New Section 
