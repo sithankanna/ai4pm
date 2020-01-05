@@ -35,3 +35,6 @@
 4. All structuring is in re-structuring
     * Don't get fooled by issue trees that are drawn in one pass. In reality, you will draw an issue tree and go back and change it and repeat the process.
     * Good thinking is done in private, no need to impress someone with fluency.
+5. The Toothbrush Test
+   * Used to see how specific/tailor-made your hypothesis questions are to the question at hand
+   * Technique: When you come up with an issue, ask yourself, can I change the industry/company (e.g a toothbrush company) and see if the question is valid. If it is still valid, then the statement failed the toothbrush test 
