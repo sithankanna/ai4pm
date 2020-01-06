@@ -38,3 +38,12 @@
 5. The Toothbrush Test
    * Used to see how specific/tailor-made your hypothesis questions are to the question at hand
    * Technique: When you come up with an issue, ask yourself, can I change the industry/company (e.g a toothbrush company) and see if the question is valid. If it is still valid, then the statement failed the toothbrush test 
+* Elevator Pitch 
+    * Distilling Insights
+    * What still needs to do and what help is neede
+* Be bold to get early Alignment 
+* Don’t be afraid to manage expectations
+* Build Interim checkins 
+
+# References
+1. http://icm.clsbe.lisboa.ucp.pt/docentes/url/ceabec/mba/session3.pdf
