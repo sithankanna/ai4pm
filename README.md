@@ -1,7 +1,7 @@
 # Notes on Problem Solving
 
 ## Guiding Principles
-0. You can solve the problem with the information, resources, mental capacity you have - "You are enbough to solve the problem"
+0. You can solve the problem with the information, resources, mental capacity you have - "You are enough to solve the problem"
 1. Belief that thinking alone can help you get to the answers.
 2. Reduce reliance of consuming information
 
